@@ -1,2 +1,2 @@
-# LilLm
+# LilLM
 Little Language Model
